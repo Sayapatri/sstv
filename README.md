@@ -13,7 +13,7 @@ Installation
 ------------
 
 ```
-$ git clone https://github.com/colaclanth/sstv.git
+$ git clone https://github.com/Sayapatri/sstv.git
 
 $ python setup.py install
 ```
